@@ -1,4 +1,4 @@
-Project "SilkRoad"
+Project "Silkroad"
 Authors: Santiago Gomez - Miguel Sandoval
 
 Proyecto DOPO 2025-2
