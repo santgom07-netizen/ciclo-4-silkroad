@@ -1,3 +1,10 @@
 SilkRoad Simulator - Proyecto Inicial DOPO-POOB Ciclo 1 2025-2
 
-Simulador de la Ruta de la Seda inspirado en el Problem J de la maratón de programación internacional 2024. Permite crear una ruta en forma de espiral cuadrada donde se pueden colocar tiendas y robots con colores únicos. Los robots pueden moverse por la ruta visitando tiendas para generar ganancias, el simulador incluye funcionalidades completas de gestión (agregar/eliminar tiendas y robots, mover robots, reabastecer tiendas, reiniciar simulación), control de visibilidad (modo visible/invisible), y consultas de estado (ganancias, número de elementos, longitud de ruta). Construido utilizando programación orientada a objetos con herencia de las clases shapes (Rectangle y Circle), implementa un algoritmo de espiral cuadrada para posicionamiento visual y manejo de errores con mensajes informativos solo cuando está visible.
+Simulador de la Ruta de la Seda inspirado en el Problem J de la maratón de programación internacional 2024. 
+Permite crear una ruta en forma de espiral cuadrada donde se pueden colocar tiendas y robots con colores únicos. 
+Los robots pueden moverse por la ruta visitando tiendas para generar ganancias, el simulador incluye funcionalidades 
+completas de gestión (agregar/eliminar tiendas y robots, mover robots, reabastecer tiendas, reiniciar simulación), 
+control de visibilidad (modo visible/invisible), y consultas de estado (ganancias, número de elementos, longitud de ruta). 
+Construido utilizando programación orientada a objetos con herencia de las clases shapes (Rectangle y Circle), 
+implementa un algoritmo de espiral cuadrada para posicionamiento visual y manejo de errores con mensajes informativos 
+solo cuando está visible.
