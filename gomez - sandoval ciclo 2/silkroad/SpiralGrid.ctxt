@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SpiralGrid
+comment0.text=\r\n\ Clase\ para\ manejar\ la\ cuadr\u00EDcula\ en\ espiral\ del\ simulador.\r\n\ \r\n\ @autor\ Santiago\ Andres\ Gomez\ Rojas\ y\ Miguel\ Angel\ Sandoval\r\n
+comment1.params=roadLength
+comment1.target=SpiralGrid(int)
+comment2.params=
+comment2.target=void\ calculateSpiralCoordinates()
+comment2.text=\r\n\ Calcula\ todas\ las\ coordenadas\ de\ la\ espiral\ de\ una\ vez.\r\n
+comment3.params=
+comment3.target=void\ createSpiralPath()
+comment3.text=\r\n\ Crea\ la\ representaci\u00F3n\ visual\ de\ la\ espiral.\r\n
+comment4.params=position
+comment4.target=int[]\ getSpiralCoordinates(int)
+comment4.text=\r\n\ Obtiene\ las\ coordenadas\ visuales\ para\ una\ posici\u00F3n\ en\ la\ espiral.\r\n
+comment5.params=
+comment5.target=void\ makeVisible()
+comment6.params=
+comment6.target=void\ makeInvisible()
+comment7.params=
+comment7.target=void\ finish()
+numComments=8

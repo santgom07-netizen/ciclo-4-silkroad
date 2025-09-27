@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ProgressBar
+comment0.text=\r\n\ Clase\ para\ manejar\ la\ barra\ de\ progreso\ de\ ganancias.\r\n\ \r\n\ @autor\ Santiago\ Andres\ Gomez\ Rojas\ y\ Miguel\ Angel\ Sandoval\r\n
+comment1.params=
+comment1.target=ProgressBar()
+comment2.params=max
+comment2.target=void\ setMaximum(int)
+comment3.params=value
+comment3.target=void\ updateProgress(int)
+comment4.params=
+comment4.target=void\ updateVisual()
+comment5.params=
+comment5.target=void\ makeVisible()
+comment6.params=
+comment6.target=void\ makeInvisible()
+comment7.params=
+comment7.target=void\ finish()
+numComments=8
