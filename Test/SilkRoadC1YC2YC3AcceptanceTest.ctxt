@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SilkRoadC1YC2YC3AcceptanceTest
+comment0.text=\r\n\ Pruebas\ de\ aceptaci\u00F3n\ visuales\ para\ SilkRoad.\r\n\ Estas\ pruebas\ muestran\ visualmente\ el\ funcionamiento\ del\ simulador.\r\n\ \r\n\ @author\ Santiago\ Andres\ Gomez\ Rojas\ y\ Miguel\ Angel\ Sandoval\r\n
+comment1.params=
+comment1.target=void\ testCiclo1Visual()
+comment1.text=\r\n\ Prueba\ visual\ del\ Ciclo\ 1\ -\ Funcionalidades\ b\u00E1sicas.\r\n\ Muestra\ la\ creaci\u00F3n,\ movimiento\ y\ gesti\u00F3n\ b\u00E1sica\ del\ simulador.\r\n
+comment2.params=
+comment2.target=void\ testCiclo2Visual()
+comment2.text=\r\n\ Prueba\ visual\ del\ Ciclo\ 2\ -\ Funcionalidades\ avanzadas.\r\n\ Muestra\ movimientos\ inteligentes\ y\ estad\u00EDsticas.\r\n
+comment3.params=
+comment3.target=void\ testEspiralYColores()
+comment3.text=\r\n\ Prueba\ visual\ de\ la\ espiral\ y\ colores\ \u00FAnicos.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ M\u00E9todo\ principal\ para\ ejecutar\ todas\ las\ pruebas\ de\ aceptaci\u00F3n.\r\n
+comment5.params=
+comment5.target=void\ testCiclo3Visual()
+comment5.text=\r\n\ Prueba\ visual\ del\ Ciclo\ 3\ -\ Soluci\u00F3n\ del\ problema\ de\ la\ marat\u00F3n.\r\n
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FighterStore
+comment0.text=\r\n\ Tienda\ luchadora.\ Solo\ robots\ con\ mas\ dinero\ que\ ella\ pueden\ tomar\ su\ dinero.\r\n\ Defiende\ su\ dinero\ contra\ robots\ pobres.\r\n\ \r\n\ @author\ Santiago\ Andres\ Gomez\ Rojas\ y\ Miguel\ Angel\ Sandoval\r\n
+comment1.params=location\ tenges\ color\ x\ y
+comment1.target=FighterStore(int,\ int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Crea\ una\ tienda\ luchadora.\r\n\ @param\ location\ Posicion\ de\ la\ tienda\ en\ la\ ruta\r\n\ @param\ tenges\ Cantidad\ inicial\ de\ dinero\r\n\ @param\ color\ Color\ de\ la\ tienda\r\n\ @param\ x\ Coordenada\ X\ visual\r\n\ @param\ y\ Coordenada\ Y\ visual\r\n
+comment2.params=robot
+comment2.target=boolean\ canRobotTake(Robot)
+comment3.params=
+comment3.target=java.lang.String\ getType()
+numComments=4

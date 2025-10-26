@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NormalRobot
+comment0.text=\r\n\ Robot\ normal.\ Toma\ todo\ el\ dinero\ disponible\ y\ puede\ volver\ a\ su\ posicion\ inicial.\r\n\ Comportamiento\ estandar\ sin\ restricciones\ especiales.\r\n\ \r\n\ @author\ Santiago\ Andres\ Gomez\ Rojas\ y\ Miguel\ Angel\ Sandoval\r\n
+comment1.params=location\ color\ x\ y
+comment1.target=NormalRobot(int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Crea\ un\ robot\ normal.\r\n\ @param\ location\ Posicion\ inicial\ del\ robot\r\n\ @param\ color\ Color\ del\ robot\r\n\ @param\ x\ Coordenada\ X\ visual\r\n\ @param\ y\ Coordenada\ Y\ visual\r\n
+comment2.params=location
+comment2.target=NormalRobot(int)
+comment2.text=\r\n\ Constructor\ de\ compatibilidad\ con\ ciclos\ anteriores.\r\n\ @param\ location\ Posicion\ inicial\ del\ robot\r\n
+comment3.params=store
+comment3.target=int\ collectFromStore(Store)
+comment4.params=
+comment4.target=boolean\ canReturnToInitial()
+comment5.params=
+comment5.target=java.lang.String\ getType()
+numComments=6

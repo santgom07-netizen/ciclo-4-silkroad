@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NormalStore
+comment0.text=\r\n\ Tienda\ normal.\ Cualquier\ robot\ puede\ tomar\ su\ dinero\ sin\ restricciones.\r\n\ \r\n\ @author\ Santiago\ Andres\ Gomez\ Rojas\ y\ Miguel\ Angel\ Sandoval\r\n
+comment1.params=location\ tenges\ color\ x\ y
+comment1.target=NormalStore(int,\ int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Crea\ una\ tienda\ normal.\r\n\ @param\ location\ Posicion\ de\ la\ tienda\ en\ la\ ruta\r\n\ @param\ tenges\ Cantidad\ inicial\ de\ dinero\r\n\ @param\ color\ Color\ de\ la\ tienda\ para\ visualizacion\r\n\ @param\ x\ Coordenada\ X\ para\ posicionamiento\ visual\r\n\ @param\ y\ Coordenada\ Y\ para\ posicionamiento\ visual\r\n
+comment2.params=location\ tenges
+comment2.target=NormalStore(int,\ int)
+comment2.text=\r\n\ Constructor\ de\ compatibilidad\ con\ ciclos\ anteriores.\r\n\ @param\ location\ Posicion\ de\ la\ tienda\r\n\ @param\ tenges\ Cantidad\ inicial\ de\ dinero\r\n
+comment3.params=robot
+comment3.target=boolean\ canRobotTake(Robot)
+comment4.params=
+comment4.target=java.lang.String\ getType()
+numComments=5
